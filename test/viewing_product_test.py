@@ -2,10 +2,10 @@
 
 
 #@pytest.fixture()
-def before_method():
-    print("\n------setup-------\n")
-    yield
-    print("\n------teardown------\n")
+#def before_method():
+#    print("\n------setup-------\n")
+ #   yield
+  #  print("\n------teardown------\n")
 
 
 def get_title(keyValue):
