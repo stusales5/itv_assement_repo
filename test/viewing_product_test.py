@@ -1,7 +1,7 @@
-import pytest
+#import pytest
 
 
-@pytest.fixture()
+#@pytest.fixture()
 def before_method():
     print("\n------setup-------\n")
     yield
